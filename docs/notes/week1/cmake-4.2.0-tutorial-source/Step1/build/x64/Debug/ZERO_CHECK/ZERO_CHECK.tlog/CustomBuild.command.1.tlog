@@ -1,0 +1,10 @@
+^E:\ENGINE-STUDY\WEEK1\CMAKE-4.2.0-TUTORIAL-SOURCE\STEP1\BUILD\CMAKEFILES\FD87058D13BD81B6A149103516FC082A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/engine-study/week1/cmake-4.2.0-tutorial-source/Step1 -BE:/engine-study/week1/cmake-4.2.0-tutorial-source/Step1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/engine-study/week1/cmake-4.2.0-tutorial-source/Step1/build/Tutorial.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

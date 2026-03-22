@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+*.zip
+*.7z
+*.rar

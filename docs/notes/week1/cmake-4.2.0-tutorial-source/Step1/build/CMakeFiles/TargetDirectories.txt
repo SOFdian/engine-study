@@ -1,0 +1,4 @@
+E:/engine-study/week1/cmake-4.2.0-tutorial-source/Step1/build/CMakeFiles/ALL_BUILD.dir
+E:/engine-study/week1/cmake-4.2.0-tutorial-source/Step1/build/CMakeFiles/ZERO_CHECK.dir
+E:/engine-study/week1/cmake-4.2.0-tutorial-source/Step1/build/Tutorial/CMakeFiles/Tutorial.dir
+E:/engine-study/week1/cmake-4.2.0-tutorial-source/Step1/build/MathFunctions/CMakeFiles/MathFunctions.dir
