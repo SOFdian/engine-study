@@ -1,0 +1,25 @@
+Start testing: Mar 22 17:56 中国标准时间
+----------------------------------------------------------
+1/1 Testing: EngineUnitTests
+1/1 Test: EngineUnitTests
+Command: "E:/engine-study/build/tests/Debug/unit_tests.exe"
+Directory: E:/engine-study/build/tests
+"EngineUnitTests" start time: Mar 22 17:56 中国标准时间
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.12"
+[doctest] run with "--help" for options
+[INFO] Testing logger from unit test... (E:\engine-study\tests\src\unit_tests.cpp:15)
+===============================================================================
+[doctest] test cases: 2 | 2 passed | 0 failed | 0 skipped
+[doctest] assertions: 3 | 3 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.23 sec
+----------------------------------------------------------
+Test Passed.
+"EngineUnitTests" end time: Mar 22 17:56 中国标准时间
+"EngineUnitTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 22 17:56 中国标准时间

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\engine-study\build\_deps\googlebenchmark-subbuild\CMakeFiles\05bb6b4420d78a0a6bfbd0cab3f14dcc\googlebenchmark-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\engine-study\build\_deps\googlebenchmark-subbuild\CMakeFiles\05bb6b4420d78a0a6bfbd0cab3f14dcc\googlebenchmark-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\engine-study\build\_deps\googlebenchmark-subbuild\CMakeFiles\05bb6b4420d78a0a6bfbd0cab3f14dcc\googlebenchmark-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\engine-study\build\_deps\googlebenchmark-subbuild\CMakeFiles\05bb6b4420d78a0a6bfbd0cab3f14dcc\googlebenchmark-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\engine-study\build\_deps\googlebenchmark-subbuild\CMakeFiles\05bb6b4420d78a0a6bfbd0cab3f14dcc\googlebenchmark-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\engine-study\build\_deps\googlebenchmark-subbuild\CMakeFiles\05bb6b4420d78a0a6bfbd0cab3f14dcc\googlebenchmark-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\engine-study\build\_deps\googlebenchmark-subbuild\CMakeFiles\05bb6b4420d78a0a6bfbd0cab3f14dcc\googlebenchmark-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\engine-study\build\_deps\googlebenchmark-subbuild\CMakeFiles\05bb6b4420d78a0a6bfbd0cab3f14dcc\googlebenchmark-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\engine-study\build\_deps\googlebenchmark-subbuild\CMakeFiles\1bcd84b50589c15e1d9156d8d51d9185\googlebenchmark-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\engine-study\build\_deps\googlebenchmark-subbuild\CMakeFiles\9b80f69a95fa2e917b46073d35deb5ab\googlebenchmark-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\engine-study\build\_deps\googlebenchmark-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\engine-study\build\_deps\googlebenchmark-subbuild\CMakeFiles\googlebenchmark-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AC847773-F128-3517-9C30-1964959D03D6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

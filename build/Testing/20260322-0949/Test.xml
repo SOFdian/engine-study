@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260322-0949-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.30.5"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-V010PP6"
+	OSRelease=" Personal"
+	OSVersion=" (Build 26200)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="7"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="24"
+	NumberOfPhysicalCPU="16"
+	TotalVirtualMemory="25843"
+	TotalPhysicalMemory="16115"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2308"
+	>
+	<Testing>
+		<StartDateTime>Mar 22 17:56 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</StartDateTime>
+		<StartTestTime>1774173376</StartTestTime>
+		<TestList>
+			<Test>./tests/EngineUnitTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>EngineUnitTests</Name>
+			<Path>./tests</Path>
+			<FullName>./tests/EngineUnitTests</FullName>
+			<FullCommandLine>E:\engine-study\build\tests\Debug\unit_tests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.234003</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>E:\engine-study\build\tests\Debug\unit_tests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytjzGLwkAQhfv8imcqr8hyxrMJWAUPrtEiXpWIhGQSF3O7y85GEfzxtwkiKSwdGHjDfO/By2tdOWJ3wEPgQpalVpCMMBZfYhGHQf6kbK9wle6EMIpO1JkQjbbQxnkLB/nP9nt3wN6jUrXodNuSRWP1H3olHYYMIQTmm6Qg1UpFEbu+vhXDgwu2VTFwx/EUlTHJYvURrN87kzZj4apk4gQx7n5NyUy1l59oStk9JJ+lMVRPnANmx9IJlp5ZvnJO+MyVrvds9pummyybBf+gXHio====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Mar 22 17:56 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</EndDateTime>
+		<EndTestTime>1774173376</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

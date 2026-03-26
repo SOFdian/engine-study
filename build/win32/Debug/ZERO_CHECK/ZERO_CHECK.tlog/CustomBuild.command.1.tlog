@@ -1,0 +1,10 @@
+^E:\ENGINE-STUDY\BUILD\CMAKEFILES\6AE6BFDE901E780C654DE96F35BEA16A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/engine-study -BE:/engine-study/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/engine-study/build/EngineStudy.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
