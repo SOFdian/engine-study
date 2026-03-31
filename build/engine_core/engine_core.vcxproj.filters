@@ -9,9 +9,17 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="E:\engine-study\engine_core\include\core\MemoryBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
     <CustomBuild Include="E:\engine-study\engine_core\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B494AC4A-818F-3555-A213-25BB7E5B8C3D}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files">
       <UniqueIdentifier>{03F71D53-B67D-37CF-A408-D58BB31579A9}</UniqueIdentifier>
     </Filter>

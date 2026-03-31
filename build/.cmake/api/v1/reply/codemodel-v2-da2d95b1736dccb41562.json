@@ -91,7 +91,9 @@
 					"targetIndexes" : 
 					[
 						3,
-						7
+						7,
+						8,
+						9
 					]
 				}
 			],
@@ -116,7 +118,9 @@
 						2,
 						3,
 						6,
-						7
+						7,
+						8,
+						9
 					]
 				},
 				{
@@ -140,14 +144,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-da03e24f49db848f81a1.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-864fcfbc5ccdca6e1d4a.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "ALL_BUILD::@dd9d8aa9ce2e501a39fe",
-					"jsonFile" : "target-ALL_BUILD-Debug-18d8229f0d63a27454d3.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-af591fc9b5b1bbf46b78.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 1
 				},
@@ -182,8 +186,22 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "engine_core::@4dadf3f3436ab64e1dc8",
-					"jsonFile" : "target-engine_core-Debug-84937c7057122cf415b0.json",
+					"jsonFile" : "target-engine_core-Debug-6cdd6db7408256e2bd3a.json",
 					"name" : "engine_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "make_unique::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-make_unique-Debug-ad6b3cb102d7fd4d0dfe.json",
+					"name" : "make_unique",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "test_pointers::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_pointers-Debug-d327c703cd469d6c57fc.json",
+					"name" : "test_pointers",
 					"projectIndex" : 0
 				},
 				{
@@ -285,7 +303,9 @@
 					"targetIndexes" : 
 					[
 						3,
-						7
+						7,
+						8,
+						9
 					]
 				}
 			],
@@ -310,7 +330,9 @@
 						2,
 						3,
 						6,
-						7
+						7,
+						8,
+						9
 					]
 				},
 				{
@@ -334,14 +356,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-da03e24f49db848f81a1.json",
+					"jsonFile" : "target-ALL_BUILD-Release-864fcfbc5ccdca6e1d4a.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "ALL_BUILD::@dd9d8aa9ce2e501a39fe",
-					"jsonFile" : "target-ALL_BUILD-Release-18d8229f0d63a27454d3.json",
+					"jsonFile" : "target-ALL_BUILD-Release-af591fc9b5b1bbf46b78.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 1
 				},
@@ -376,8 +398,22 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "engine_core::@4dadf3f3436ab64e1dc8",
-					"jsonFile" : "target-engine_core-Release-3c48f7032eca6d3c2f2c.json",
+					"jsonFile" : "target-engine_core-Release-2e71e91df03b65a5a6a7.json",
 					"name" : "engine_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "make_unique::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-make_unique-Release-3c0d5fef0914d6f3c1d2.json",
+					"name" : "make_unique",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "test_pointers::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_pointers-Release-3e73e23ae72d2ded4ba8.json",
+					"name" : "test_pointers",
 					"projectIndex" : 0
 				},
 				{
@@ -479,7 +515,9 @@
 					"targetIndexes" : 
 					[
 						3,
-						7
+						7,
+						8,
+						9
 					]
 				}
 			],
@@ -504,7 +542,9 @@
 						2,
 						3,
 						6,
-						7
+						7,
+						8,
+						9
 					]
 				},
 				{
@@ -528,14 +568,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-da03e24f49db848f81a1.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-864fcfbc5ccdca6e1d4a.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "ALL_BUILD::@dd9d8aa9ce2e501a39fe",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-18d8229f0d63a27454d3.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-af591fc9b5b1bbf46b78.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 1
 				},
@@ -570,8 +610,22 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "engine_core::@4dadf3f3436ab64e1dc8",
-					"jsonFile" : "target-engine_core-MinSizeRel-e44052459677f44e94b9.json",
+					"jsonFile" : "target-engine_core-MinSizeRel-1a1d66b0da89f8b9269d.json",
 					"name" : "engine_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "make_unique::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-make_unique-MinSizeRel-3d78185edff68aac307a.json",
+					"name" : "make_unique",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "test_pointers::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_pointers-MinSizeRel-996bd6061d980d16e03a.json",
+					"name" : "test_pointers",
 					"projectIndex" : 0
 				},
 				{
@@ -673,7 +727,9 @@
 					"targetIndexes" : 
 					[
 						3,
-						7
+						7,
+						8,
+						9
 					]
 				}
 			],
@@ -698,7 +754,9 @@
 						2,
 						3,
 						6,
-						7
+						7,
+						8,
+						9
 					]
 				},
 				{
@@ -722,14 +780,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-da03e24f49db848f81a1.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-864fcfbc5ccdca6e1d4a.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "ALL_BUILD::@dd9d8aa9ce2e501a39fe",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-18d8229f0d63a27454d3.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-af591fc9b5b1bbf46b78.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 1
 				},
@@ -764,8 +822,22 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "engine_core::@4dadf3f3436ab64e1dc8",
-					"jsonFile" : "target-engine_core-RelWithDebInfo-949391d9c47a71c1b14c.json",
+					"jsonFile" : "target-engine_core-RelWithDebInfo-c5094bad3c5eb02d23b3.json",
 					"name" : "engine_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "make_unique::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-make_unique-RelWithDebInfo-a09244c4e32ca8648e49.json",
+					"name" : "make_unique",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "test_pointers::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_pointers-RelWithDebInfo-66ead064e8b407003b87.json",
+					"name" : "test_pointers",
 					"projectIndex" : 0
 				},
 				{

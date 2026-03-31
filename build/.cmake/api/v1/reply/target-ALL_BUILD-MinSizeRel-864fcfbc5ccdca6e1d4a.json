@@ -17,19 +17,25 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "unit_tests::@a44f0ac069e85531cdee"
+			"id" : "benchmark_main::@a5e768fe43450e220d4b"
 		},
 		{
 			"id" : "benchmark::@a5e768fe43450e220d4b"
 		},
 		{
-			"id" : "benchmark_main::@a5e768fe43450e220d4b"
+			"id" : "unit_tests::@a44f0ac069e85531cdee"
 		},
 		{
 			"id" : "bench_tests::@a44f0ac069e85531cdee"
 		},
 		{
+			"id" : "test_pointers::@a44f0ac069e85531cdee"
+		},
+		{
 			"id" : "engine_core::@4dadf3f3436ab64e1dc8"
+		},
+		{
+			"id" : "make_unique::@a44f0ac069e85531cdee"
 		},
 		{
 			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"

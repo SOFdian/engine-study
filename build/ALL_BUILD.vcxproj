@@ -189,6 +189,14 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{14BC5326-A415-3BFE-8865-5A613E4ADA83}</Project>
       <Name>engine_core</Name>
     </ProjectReference>
+    <ProjectReference Include="E:\engine-study\build\tests\make_unique.vcxproj">
+      <Project>{56F6359A-2544-3315-AEE4-359BE8D9F381}</Project>
+      <Name>make_unique</Name>
+    </ProjectReference>
+    <ProjectReference Include="E:\engine-study\build\tests\test_pointers.vcxproj">
+      <Project>{F928AD9B-FBC3-3CFC-98F5-B99A9A7C0B67}</Project>
+      <Name>test_pointers</Name>
+    </ProjectReference>
     <ProjectReference Include="E:\engine-study\build\tests\unit_tests.vcxproj">
       <Project>{FFC66C4C-186E-3549-BB81-CC983CF7ED07}</Project>
       <Name>unit_tests</Name>

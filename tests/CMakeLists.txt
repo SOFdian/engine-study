@@ -41,3 +41,23 @@ target_link_libraries(bench_tests
 # add_executable(math_tests math_tests.cpp)
 # target_link_libraries(math_tests PRIVATE math engine_core)
 # add_test(NAME MathTests COMMAND math_tests)
+
+
+add_executable(make_unique
+    src/MakeUnique.cpp
+)
+
+target_link_libraries(make_unique
+    PRIVATE
+        engine_core
+)
+
+
+add_executable(test_pointers
+    src/test_pointers.cpp
+)
+
+target_link_libraries(test_pointers
+    PRIVATE
+        engine_core
+)

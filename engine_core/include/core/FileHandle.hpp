@@ -17,10 +17,10 @@ public:
     // 析构函数：释放资源
     ~FileHandle()
     {
-        // TODO: 实现资源释放逻辑
-        if (m_handle)
+        if (m_handle != nullptr)
         {
-            std::fclose(m_handle);
+            std::fclose(m_handle); 
+            m_handle = nullptr;    
         }
     }
 

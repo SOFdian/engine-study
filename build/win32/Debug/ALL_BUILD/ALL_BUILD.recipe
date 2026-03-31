@@ -8,6 +8,12 @@
       <FullPath>E:\engine-study\build\tests\Debug\bench_tests.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Debug\make_unique.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Debug\test_pointers.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
       <FullPath>E:\engine-study\build\tests\Debug\unit_tests.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
