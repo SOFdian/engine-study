@@ -17,10 +17,10 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "benchmark_main::@a5e768fe43450e220d4b"
+			"id" : "benchmark::@a5e768fe43450e220d4b"
 		},
 		{
-			"id" : "benchmark::@a5e768fe43450e220d4b"
+			"id" : "benchmark_main::@a5e768fe43450e220d4b"
 		},
 		{
 			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
