@@ -1,0 +1,66 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "benchmark_main::@a5e768fe43450e220d4b"
+		},
+		{
+			"id" : "benchmark::@a5e768fe43450e220d4b"
+		},
+		{
+			"id" : "engine_core::@4dadf3f3436ab64e1dc8"
+		},
+		{
+			"id" : "make_unique::@a44f0ac069e85531cdee"
+		},
+		{
+			"id" : "test_false_sharing::@a44f0ac069e85531cdee"
+		},
+		{
+			"id" : "test_cache::@a44f0ac069e85531cdee"
+		},
+		{
+			"id" : "unit_tests::@a44f0ac069e85531cdee"
+		},
+		{
+			"id" : "bench_tests::@a44f0ac069e85531cdee"
+		},
+		{
+			"id" : "test_alignment::@a44f0ac069e85531cdee"
+		},
+		{
+			"id" : "test_aos_soa::@a44f0ac069e85531cdee"
+		},
+		{
+			"id" : "test_pointers::@a44f0ac069e85531cdee"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

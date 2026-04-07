@@ -193,6 +193,22 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{56F6359A-2544-3315-AEE4-359BE8D9F381}</Project>
       <Name>make_unique</Name>
     </ProjectReference>
+    <ProjectReference Include="E:\engine-study\build\tests\test_alignment.vcxproj">
+      <Project>{582CAE6B-15EA-30AE-BB74-EF598B6E10A4}</Project>
+      <Name>test_alignment</Name>
+    </ProjectReference>
+    <ProjectReference Include="E:\engine-study\build\tests\test_aos_soa.vcxproj">
+      <Project>{75080CBB-14AC-3EE1-8F3A-CB13324F1C76}</Project>
+      <Name>test_aos_soa</Name>
+    </ProjectReference>
+    <ProjectReference Include="E:\engine-study\build\tests\test_cache.vcxproj">
+      <Project>{1F568195-F807-3E9F-B59F-7FA3CAA9A9A2}</Project>
+      <Name>test_cache</Name>
+    </ProjectReference>
+    <ProjectReference Include="E:\engine-study\build\tests\test_false_sharing.vcxproj">
+      <Project>{2DE5ADC6-DD2F-36B5-B6F4-5A0CDF13BAAE}</Project>
+      <Name>test_false_sharing</Name>
+    </ProjectReference>
     <ProjectReference Include="E:\engine-study\build\tests\test_pointers.vcxproj">
       <Project>{F928AD9B-FBC3-3CFC-98F5-B99A9A7C0B67}</Project>
       <Name>test_pointers</Name>

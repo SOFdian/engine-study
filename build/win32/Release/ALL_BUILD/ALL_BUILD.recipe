@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Release\bench_tests.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Release\make_unique.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Release\test_alignment.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Release\test_aos_soa.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Release\test_cache.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Release\test_false_sharing.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Release\test_pointers.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Release\unit_tests.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\Release\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

@@ -11,6 +11,15 @@
       <FullPath>E:\engine-study\build\tests\Debug\make_unique.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Debug\test_alignment.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Debug\test_aos_soa.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\engine-study\build\tests\Debug\test_cache.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
       <FullPath>E:\engine-study\build\tests\Debug\test_pointers.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>

@@ -61,3 +61,39 @@ target_link_libraries(test_pointers
     PRIVATE
         engine_core
 )
+
+add_executable(test_alignment
+    src/test_alignment.cpp
+)
+
+target_link_libraries(test_alignment
+    PRIVATE
+        engine_core
+)
+
+add_executable(test_cache
+    src/test_cache.cpp
+)
+
+target_link_libraries(test_cache
+    PRIVATE
+        engine_core
+)
+
+add_executable(test_aos_soa
+    src/test_aos_soa.cpp
+)
+
+target_link_libraries(test_aos_soa
+    PRIVATE
+        engine_core
+)
+
+add_executable(test_false_sharing
+    src/test_false_sharing.cpp
+)
+
+target_link_libraries(test_false_sharing
+    PRIVATE
+        engine_core
+)
